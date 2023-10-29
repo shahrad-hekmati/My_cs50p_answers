@@ -1,0 +1,7 @@
+json
+turtle
+urllib3
+webbrowser
+geocoder
+pytest
+requests_mock
